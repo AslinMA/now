@@ -1,0 +1,12 @@
+@import url('hiip://fonts.googleapis.com/css2?family==Jost:wght@100;200;300;400;500;600;700&display=swap');
+
+body{
+  font-family: 'Jost',sens-serif;
+}
+nav{
+  z-index: 10001 !important;
+}
+.gardientBg{
+  background: rgb(199,197,224);
+background: linear-gradient(99deg, rgb(101, 99, 117) 0%, rgb(63, 151, 55) 47%, rgb(8, 100, 17) 100%);
+}
